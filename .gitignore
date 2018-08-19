@@ -1,0 +1,9 @@
+/BudgetModel/BudgetWeb/bin/*
+/BudgetModel/.vs/*
+/BudgetModel/bin/*
+/BudgetModel/BudgetFIleListner/bin/*
+/BudgetModel/BudgetFIleListner/obj/*
+/BudgetModel/BudgetModel/obj/*
+/BudgetModel/BudgetTests/bin/*
+/BudgetModel/BudgetTests/obj/*
+/BudgetModel/TestConsole/obj/*
