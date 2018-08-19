@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b173f72e-7d66-4102-9492-342e4eb1c788" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BudgetModel/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BudgetModel/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BudgetModel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BudgetModel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BudgetModel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BudgetModel/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerInstaller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerInstaller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetFIleListner/FileListner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetFIleListner/FileListner.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BudgetFileListnerInstaller.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerInstaller.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding>
+                <marker date="1534689643833" expanded="false" signature="6:216" ph="..." />
+                <marker date="1534689643833" expanded="true" signature="245:988" ph="{...}" />
+                <marker date="1534689643833" expanded="true" signature="365:986" ph="{...}" />
+                <marker date="1534689643833" expanded="true" signature="518:980" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BudgetFileListnerService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+              <folding>
+                <marker date="1534691231999" expanded="false" signature="6:242" ph="..." />
+                <marker date="1534691231999" expanded="true" signature="271:1300" ph="{...}" />
+                <marker date="1534691231999" expanded="true" signature="337:1298" ph="{...}" />
+                <marker date="1534691231999" expanded="true" signature="426:577" ph="{...}" />
+                <marker date="1534691231999" expanded="true" signature="633:1165" ph="{...}" />
+                <marker date="1534691231999" expanded="true" signature="656:861" ph="/* Ждем тут такой параметр - строка подключения. ... */" />
+                <marker date="1534691231999" expanded="true" signature="1208:1292" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileListner.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BudgetFIleListner/FileListner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="76" column="55" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+              <folding>
+                <marker date="1534691522261" expanded="false" signature="6:286" ph="..." />
+                <marker date="1534691522261" expanded="true" signature="315:3428" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="346:3426" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="627:998" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="1027:1187" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="1113:1177" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="1215:1313" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="1419:1593" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="1697:1847" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="1950:2700" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="2576:2690" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="2803:2952" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="3021:3420" ph="{...}" />
+                <marker date="1534691522261" expanded="true" signature="3156:3396" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModelConverter.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BudgetFIleListner/ModelConverter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1534684196334" expanded="false" signature="6:207" ph="..." />
+                <marker date="1534684196334" expanded="true" signature="236:4304" ph="{...}" />
+                <marker date="1534684196334" expanded="true" signature="270:4302" ph="{...}" />
+                <marker date="1534684196334" expanded="true" signature="418:474" ph="{...}" />
+                <marker date="1534684196334" expanded="true" signature="542:778" ph="{...}" />
+                <marker date="1534684196334" expanded="true" signature="837:1165" ph="{...}" />
+                <marker date="1534684196334" expanded="true" signature="985:1120" ph="{...}" />
+                <marker date="1534684196334" expanded="true" signature="1219:1672" ph="{...}" />
+                <marker date="1534684196334" expanded="true" signature="1718:2642" ph="{...}" />
+                <marker date="1534684196334" expanded="true" signature="2694:4296" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BudgetFIleListner/ModelConverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetFIleListner/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetModel/DataContext/BudgetContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetFIleListner/FileListner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerInstaller.cs" />
+        <option value="$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerService.cs" />
+        <option value="$PROJECT_DIR$/BudgetFIleListner/FileListner.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BudgetModel (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BudgetModel (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BudgetFileListner" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BudgetModel (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BudgetModel" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BudgetModel (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BudgetModel" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DataContext" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BudgetModel (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BudgetTests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BudgetModel (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BudgetTests" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BudgetFileListnerTests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BudgetModel (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TestConsole" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b173f72e-7d66-4102-9492-342e4eb1c788" name="Default" comment="" />
+      <created>1534686703326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534686703326</updated>
+      <workItem from="1534686725710" duration="37000" />
+      <workItem from="1534688714028" duration="2556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2593000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BudgetModel/DataContext/BudgetContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1534684196684" expanded="true" signature="6:191" ph="..." />
+            <marker date="1534684196684" expanded="true" signature="226:1208" ph="{...}" />
+            <marker date="1534684196684" expanded="true" signature="271:1206" ph="{...}" />
+            <marker date="1534684196684" expanded="true" signature="360:380" ph="{...}" />
+            <marker date="1534684196684" expanded="true" signature="715:769" ph="{...}" />
+            <marker date="1534684196684" expanded="true" signature="826:886" ph="{...}" />
+            <marker date="1534684196684" expanded="true" signature="925:976" ph="{...}" />
+            <marker date="1534684196684" expanded="true" signature="1022:1077" ph="{...}" />
+            <marker date="1534684196684" expanded="true" signature="1138:1200" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerInstaller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <marker date="1534689643833" expanded="false" signature="6:216" ph="..." />
+            <marker date="1534689643833" expanded="true" signature="245:988" ph="{...}" />
+            <marker date="1534689643833" expanded="true" signature="365:986" ph="{...}" />
+            <marker date="1534689643833" expanded="true" signature="518:980" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetFIleListner/BudgetFileListnerService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <marker date="1534691231999" expanded="false" signature="6:242" ph="..." />
+            <marker date="1534691231999" expanded="true" signature="271:1300" ph="{...}" />
+            <marker date="1534691231999" expanded="true" signature="337:1298" ph="{...}" />
+            <marker date="1534691231999" expanded="true" signature="426:577" ph="{...}" />
+            <marker date="1534691231999" expanded="true" signature="633:1165" ph="{...}" />
+            <marker date="1534691231999" expanded="true" signature="656:861" ph="/* Ждем тут такой параметр - строка подключения. ... */" />
+            <marker date="1534691231999" expanded="true" signature="1208:1292" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetFIleListner/App.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetFIleListner/FileListner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="76" column="55" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+          <folding>
+            <marker date="1534691522261" expanded="false" signature="6:286" ph="..." />
+            <marker date="1534691522261" expanded="true" signature="315:3428" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="346:3426" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="627:998" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="1027:1187" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="1113:1177" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="1215:1313" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="1419:1593" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="1697:1847" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="1950:2700" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="2576:2690" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="2803:2952" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="3021:3420" ph="{...}" />
+            <marker date="1534691522261" expanded="true" signature="3156:3396" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetFIleListner/ModelConverter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1534684196334" expanded="false" signature="6:207" ph="..." />
+            <marker date="1534684196334" expanded="true" signature="236:4304" ph="{...}" />
+            <marker date="1534684196334" expanded="true" signature="270:4302" ph="{...}" />
+            <marker date="1534684196334" expanded="true" signature="418:474" ph="{...}" />
+            <marker date="1534684196334" expanded="true" signature="542:778" ph="{...}" />
+            <marker date="1534684196334" expanded="true" signature="837:1165" ph="{...}" />
+            <marker date="1534684196334" expanded="true" signature="985:1120" ph="{...}" />
+            <marker date="1534684196334" expanded="true" signature="1219:1672" ph="{...}" />
+            <marker date="1534684196334" expanded="true" signature="1718:2642" ph="{...}" />
+            <marker date="1534684196334" expanded="true" signature="2694:4296" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

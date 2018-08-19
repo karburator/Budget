@@ -12,7 +12,7 @@ namespace BudgetFIleListner
     [RunInstaller(true)]
     public partial class BudgetFileListnerInstaller : System.Configuration.Install.Installer
     {
-        ServiceInstaller serviceInstaller;
+        readonly ServiceInstaller serviceInstaller;
         ServiceProcessInstaller processInstaller;
 
         public BudgetFileListnerInstaller()

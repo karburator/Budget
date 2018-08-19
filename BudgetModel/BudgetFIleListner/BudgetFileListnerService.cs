@@ -17,9 +17,9 @@ namespace BudgetFIleListner
         public BudgetFileListnerService()
         {
             InitializeComponent();
-            this.CanStop = true;
-            this.CanPauseAndContinue = true;
-            this.AutoLog = true;
+            CanStop = true;
+            CanPauseAndContinue = true;
+            AutoLog = true;
         }
 
         protected override void OnStart(string[] args)
@@ -34,7 +34,7 @@ namespace BudgetFIleListner
             Thread loggerThread = new Thread(new ThreadStart(fileListner.Start));
             loggerThread.Start();
         }
-
+ 
         protected override void OnStop()
         {
             fileListner.Stop();

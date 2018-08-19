@@ -14,11 +14,11 @@ namespace BudgetFIleListner
 {
     public class FileListner
     {
-        private FileSystemWatcher watcher;
-        private object obj = new object();
+        private readonly FileSystemWatcher watcher;
+        private readonly object obj = new object();
         private bool enabled = true;
         private string dbConnectStr;
-        private BudgetContext context;
+        private readonly BudgetContext context;
 
         public FileListner(string dbConnectStr)
         {
