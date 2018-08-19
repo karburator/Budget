@@ -1,26 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.Entity;
 using BudgetModel.Model;
+using BudgetModel.PublicInterface;
 
 namespace BudgetModel.DataContext
 {
-    public class BudgetContext : DbContext
-    {
-        public BudgetContext(string dbConnectStr)
-            : base(dbConnectStr)
-        {
-        }
+    public class BudgetContext : DbContext, IBudgetContext
+    {public BudgetContext(string dbConnectStr)
+                 : base(dbConnectStr)
+             {
+             }
+        
 
-        public DbSet<Good> Goods { get; set; }
-        public DbSet<Modifier> Modifiers { get; set; }
-        public DbSet<OperationType> OperationTypes { get; set; }
-        public DbSet<Receipt> Receipts { get; set; }
-        public DbSet<ReceiptProperty> RecieptPropertys { get; set; }
+        public DbSet<IGood> Goods { get; set; }
+        public DbSet<IModifier> Modifiers { get; set; }
+        public DbSet<IOperationType> OperationTypes { get; set; }
+        public DbSet<IReceipt> Receipts { get; set; }
+        public DbSet<IReceiptProperty> RecieptPropertys { get; set; }
 
         public Receipt CreateEmptyReceipt()
         {

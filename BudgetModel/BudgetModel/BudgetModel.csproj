@@ -50,17 +50,18 @@
     <Compile Include="DataContext\BudgetContext.cs" />
     <Compile Include="Model\Constant\BudgetModelConstants.cs" />
     <Compile Include="Model\Good.cs" />
-    <Compile Include="Model\Interface\IDataModel.cs" />
-    <Compile Include="Model\Interface\IGood.cs" />
-    <Compile Include="Model\Interface\IModifier.cs" />
-    <Compile Include="Model\Interface\IOperationType.cs" />
-    <Compile Include="Model\Interface\IReceipt.cs" />
-    <Compile Include="Model\Interface\IReceiptProperty.cs" />
     <Compile Include="Model\Modifier.cs" />
     <Compile Include="Model\OperationType.cs" />
     <Compile Include="Model\Receipt.cs" />
     <Compile Include="Model\ReceiptProperty.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublicInterface\IBudgetContext.cs" />
+    <Compile Include="PublicInterface\IDataModel.cs" />
+    <Compile Include="PublicInterface\IGood.cs" />
+    <Compile Include="PublicInterface\IModifier.cs" />
+    <Compile Include="PublicInterface\IOperationType.cs" />
+    <Compile Include="PublicInterface\IReceipt.cs" />
+    <Compile Include="PublicInterface\IReceiptProperty.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using BudgetModel.Model;
 
-namespace BudgetModel.Model
+namespace BudgetModel.PublicInterface
 {
     public interface IReceipt : IDataModel
     {

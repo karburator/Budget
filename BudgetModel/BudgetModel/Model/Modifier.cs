@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BudgetModel.PublicInterface;
 
 namespace BudgetModel.Model
 {
     public class Modifier : IModifier
     {
-        public int EntityId => BudgetModelConstants.Modifier_Entity_Id;
+        public int EntityId => BudgetModelConstants.ModifierEntityId;
 
         public int Id { get; set; }
 

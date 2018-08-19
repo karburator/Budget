@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using BudgetModel.PublicInterface;
 
 namespace BudgetModel.Model
 {
     public class Good : IGood
     {
-        public int EntityId => BudgetModelConstants.Good_Entity_Id;
+        public int EntityId => BudgetModelConstants.GoodEntityId;
 
         public int Id { get; set; }
 

@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using BudgetModel.PublicInterface;
 
 namespace BudgetModel.Model
 {
@@ -15,7 +13,7 @@ namespace BudgetModel.Model
             Modifiers = new List<Modifier>();
         }
 
-        public int EntityId => BudgetModelConstants.Receipt_Entity_Id;
+        public int EntityId => BudgetModelConstants.ReceiptEntityId;
 
         public int Id { get; set; }
 

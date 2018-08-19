@@ -43,14 +43,6 @@
             <e p="BudgetModelConstants.cs" t="Include" />
           </e>
           <e p="Good.cs" t="Include" />
-          <e p="Interface" t="Include">
-            <e p="IDataModel.cs" t="Include" />
-            <e p="IGood.cs" t="Include" />
-            <e p="IModifier.cs" t="Include" />
-            <e p="IOperationType.cs" t="Include" />
-            <e p="IReceipt.cs" t="Include" />
-            <e p="IReceiptProperty.cs" t="Include" />
-          </e>
           <e p="Modifier.cs" t="Include" />
           <e p="OperationType.cs" t="Include" />
           <e p="Receipt.cs" t="Include" />
@@ -60,6 +52,15 @@
         <e p="packages.config" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="PublicInterface" t="Include">
+          <e p="IBudgetContext.cs" t="Include" />
+          <e p="IDataModel.cs" t="Include" />
+          <e p="IGood.cs" t="Include" />
+          <e p="IModifier.cs" t="Include" />
+          <e p="IOperationType.cs" t="Include" />
+          <e p="IReceipt.cs" t="Include" />
+          <e p="IReceiptProperty.cs" t="Include" />
         </e>
       </e>
       <e p="BudgetModel.sln" t="IncludeFlat" />
